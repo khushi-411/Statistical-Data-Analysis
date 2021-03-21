@@ -11,7 +11,7 @@
 * Hypothesis -- Null Hypothesis and Alternate Hypothesis
 * Procedure
 
-2.**Using Library Functions**
+2. **Using Library Functions**
 
 * Student's T-test (Independent Samples)
 
@@ -40,4 +40,5 @@
 * Conclusion
 
 4. Conclusion
+
 5. References
