@@ -1,3 +1,5 @@
+Check out the colab file, to view it completely coz github doesn't supports `html` tags in `.ipynb` folders.
+
 # **Contents :-**
 
 1. **Theoretical Overview**
